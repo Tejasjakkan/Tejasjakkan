@@ -43,7 +43,7 @@
 ## 📬 **Connect With Me:**  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-TejasJakkan-blue?style=for-the-badge&logo=linkedin)](your-linkedin-url)  
-[![Email](https://img.shields.io/badge/Email-tejasjakkan@gmail.com-red?style=for-the-badge&logo=gmail)](mailto:your-email@gmail.com)  
+[![Email](https://img.shields.io/badge/Email-jakkantejas24@gmail.com-red?style=for-the-badge&logo=gmail)](mailto:your-email@gmail.com)  
 [![Portfolio](https://img.shields.io/badge/Portfolio-Projects-black?style=for-the-badge)](your-portfolio-url)  
 
 ---
